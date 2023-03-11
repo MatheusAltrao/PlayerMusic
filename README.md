@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="" src="../../.github/thumb.png" width="100%">
+  <img alt="" src="https://i.pinimg.com/564x/95/0b/9d/950b9d2bbf24196aed7e76916e3454ce.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
