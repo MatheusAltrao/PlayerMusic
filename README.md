@@ -15,3 +15,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Cards de musicas para escutar e relaxar, o projeto ainda está em construção pois quero adicionar mais tipos de musicas além de lofi.
 
+##  📎 Link :
+https://player-music-two.vercel.app/
