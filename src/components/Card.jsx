@@ -5,7 +5,6 @@ import { useState, useRef, React, useEffect } from 'react'
 const Card = (props) => {
 
   const [isPlaying, setIsPlaying] = useState(false);
-  const [volume, setVolume] = useState(0.08)
   const audioRef = useRef(null);
 
   const togglePlay = () => {
@@ -18,7 +17,7 @@ const Card = (props) => {
   };
 
   return (
-    <div className={`card relative w-full max-w-[310px] h-[300px]  rounded-[20px] overflow-hidden z-[0] ${isPlaying ? 'shadoww' : 'shadow-none'} `} onClick={togglePlay} >
+    <div className={`card relative w-full max-w-[310px] h-[300px]  rounded-[20px] overflow-hidden z-[0] ${isPlaying ? 'shadoww border border-purple-500' : 'shadow-none'} `} onClick={togglePlay} >
 
 
       <div className=' absolute px-2 z-10 bottom-4  w-full  ' >
