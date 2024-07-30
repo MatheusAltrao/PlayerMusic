@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-## 🚧 Projeto - Em construção:
+## 🚧 Projeto
 
 Cards de musicas para escutar e relaxar, o projeto ainda está em construção pois quero adicionar mais tipos de musicas além de lofi.
 
